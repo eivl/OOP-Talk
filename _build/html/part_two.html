@@ -24,7 +24,6 @@
         <script type="text/javascript" src="_static/jquery.js"></script>
         <script type="text/javascript" src="_static/underscore.js"></script>
         <script type="text/javascript" src="_static/doctools.js"></script>
-        <script type="text/javascript" src="_static/language_data.js"></script>
     
     <script type="text/javascript" src="_static/js/theme.js"></script>
 
@@ -246,6 +245,16 @@ We start by modelling some actions on our <code class="docutils literal notransl
 </div>
 <div class="section" id="what-about-self">
 <h2>What about self?<a class="headerlink" href="#what-about-self" title="Permalink to this headline">¶</a></h2>
+<p>Syntactically there is only one difference between a method and a function, methods have one required argument. This argument is conventionally named <code class="docutils literal notranslate"><span class="pre">self</span></code>, there is nothing magical about the name, you can call it <code class="docutils literal notranslate"><span class="pre">this</span></code> or <code class="docutils literal notranslate"><span class="pre">eivl</span></code>.
+The <code class="docutils literal notranslate"><span class="pre">self</span></code> argument to a method is a reference to the object that the method is being invoked on. We can access attributes and methods of that object as if it were any other object. This is what is done above in the <code class="docutils literal notranslate"><span class="pre">reset</span></code> method, there x and y attributes are set of the <code class="docutils literal notranslate"><span class="pre">self</span></code> object.</p>
+<p>Notice above, in usage of <code class="docutils literal notranslate"><span class="pre">p.reset()</span></code> we do not have to pass the <code class="docutils literal notranslate"><span class="pre">self</span></code> argument, this is done automatically by python. It already know you are calling a method on the object <code class="docutils literal notranslate"><span class="pre">p</span></code>.
+Since a method is just like a function, we do not have to use the method on the object, we can invoke the function on the class, explicitly passing our object as the <code class="docutils literal notranslate"><span class="pre">self</span></code> argument.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">p</span> <span class="o">=</span> <span class="n">Ponit</span><span class="p">()</span>
+<span class="n">Point</span><span class="o">.</span><span class="n">reset</span><span class="p">(</span><span class="n">p</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">x</span><span class="p">,</span> <span class="n">p</span><span class="o">.</span><span class="n">y</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>Internally this is the same process as using a method on the object</p>
 </div>
 </div>
 

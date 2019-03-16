@@ -11,6 +11,7 @@ recommonmark = "*"
 recommonmark-parser = "*"
 nbsphinx = "*"
 sphinx-rtd-theme = "*"
+install = "*"
 
 [requires]
 python_version = "3.7"

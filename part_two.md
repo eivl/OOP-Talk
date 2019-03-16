@@ -72,3 +72,16 @@ print(p.x, p.y)
 Notice the use of the word `self`, it is nothing special with the name, it could be anything, but it is a already agreed upon convention to call it `self`. Next is that the `method` is called with the dot-notation `.` between the object instance and the method name, and lastly to call/run the method you use a pair of parentheses(just like functions do).
 
 ## What about self?
+Syntactically there is only one difference between a method and a function, methods have one required argument. This argument is conventionally named `self`, there is nothing magical about the name, you can call it `this` or `eivl`.
+The `self` argument to a method is a reference to the object that the method is being invoked on. We can access attributes and methods of that object as if it were any other object. This is what is done above in the `reset` method, there x and y attributes are set of the `self` object.
+
+Notice above, in usage of `p.reset()` we do not have to pass the `self` argument, this is done automatically by python. It already know you are calling a method on the object `p`.
+Since a method is just like a function, we do not have to use the method on the object, we can invoke the function on the class, explicitly passing our object as the `self` argument.
+
+```python
+p = Ponit()
+Point.reset(p)
+print(p.x, p.y)
+```
+
+Internally this is the same process as using a method on the object
