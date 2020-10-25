@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T16:34:04.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="jmcF9rrmNCYKKrjo3uAT" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-25T16:36:15.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="k_s9l-LcAx12QU6lG9zh" version="13.8.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="AmOqNfYdoCWr0_c-PjRK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-14" target="AmOqNfYdoCWr0_c-PjRK-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" position="Contributer/Branding" placeholders="1" id="AmOqNfYdoCWr0_c-PjRK-14">
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;%Extra%&lt;br&gt;&lt;/i&gt;" position="Contributer" placeholders="1" Extra="Branding / Site / Bot / Events" id="AmOqNfYdoCWr0_c-PjRK-14">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="40" y="420" width="180" height="70" as="geometry" />
           </mxCell>
