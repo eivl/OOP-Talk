@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T16:36:15.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="k_s9l-LcAx12QU6lG9zh" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T06:35:10.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="yxv-fhJoRhCiZW60XKTT" version="13.8.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="33" y="120" width="1127" height="880" as="geometry" />
+          <mxGeometry x="29" y="180" width="781" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="AmOqNfYdoCWr0_c-PjRK-4" source="AmOqNfYdoCWr0_c-PjRK-6" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="AmOqNfYdoCWr0_c-PjRK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-6" target="AmOqNfYdoCWr0_c-PjRK-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="131" y="370" as="sourcePoint" />
             <mxPoint x="511" y="450" as="targetPoint" />
@@ -18,72 +18,70 @@
             <mxGeometry x="301" y="40" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="AmOqNfYdoCWr0_c-PjRK-2" target="dNxyNK7c78bLwvsdeMH5-12" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="AmOqNfYdoCWr0_c-PjRK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-2" target="dNxyNK7c78bLwvsdeMH5-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="161" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xY0h0DLl5Ip-VkBHwAwU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-2" target="AmOqNfYdoCWr0_c-PjRK-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="391" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" position="Admin" placeholders="1" id="AmOqNfYdoCWr0_c-PjRK-2">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="301" y="250" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="AmOqNfYdoCWr0_c-PjRK-2" source="AmOqNfYdoCWr0_c-PjRK-4" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="AmOqNfYdoCWr0_c-PjRK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-4" target="AmOqNfYdoCWr0_c-PjRK-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="111" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" position="Moderator" placeholders="1" id="AmOqNfYdoCWr0_c-PjRK-4">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="301" y="420" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" position="Helper" placeholders="1" id="AmOqNfYdoCWr0_c-PjRK-6">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="301" y="640" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="AmOqNfYdoCWr0_c-PjRK-6" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="431" y="410" as="sourcePoint" />
-            <mxPoint x="632" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.417;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-8" target="AmOqNfYdoCWr0_c-PjRK-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="542" y="455" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" position="DevOps" placeholders="1" id="AmOqNfYdoCWr0_c-PjRK-8">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="561" y="420" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="527" y="140" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AmOqNfYdoCWr0_c-PjRK-6" target="AmOqNfYdoCWr0_c-PjRK-14" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="AmOqNfYdoCWr0_c-PjRK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-6" target="AmOqNfYdoCWr0_c-PjRK-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-14" target="AmOqNfYdoCWr0_c-PjRK-2">
+        <mxCell id="AmOqNfYdoCWr0_c-PjRK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-14" target="AmOqNfYdoCWr0_c-PjRK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;%Extra%&lt;br&gt;&lt;/i&gt;" position="Contributer" placeholders="1" Extra="Branding / Site / Bot / Events" id="AmOqNfYdoCWr0_c-PjRK-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="40" y="420" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" position="Core Dev" placeholders="1" id="AmOqNfYdoCWr0_c-PjRK-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="817" y="420" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="567" y="420" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="AmOqNfYdoCWr0_c-PjRK-6" target="AmOqNfYdoCWr0_c-PjRK-18" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="AmOqNfYdoCWr0_c-PjRK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-6" target="AmOqNfYdoCWr0_c-PjRK-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AmOqNfYdoCWr0_c-PjRK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-18" target="AmOqNfYdoCWr0_c-PjRK-2">
+        <mxCell id="AmOqNfYdoCWr0_c-PjRK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="AmOqNfYdoCWr0_c-PjRK-18" target="AmOqNfYdoCWr0_c-PjRK-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="907" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="907" y="285" />
+              <mxPoint x="657" y="285" />
             </Array>
+            <mxPoint x="657" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
